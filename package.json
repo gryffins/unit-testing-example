@@ -1,0 +1,25 @@
+{
+  "name": "unit-testing-example",
+  "version": "1.0.0",
+  "description": "An example project for unit testing and continuous integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gryffins/unit-testing-example.git"
+  },
+  "keywords": [
+    "unit-testing",
+    "continuous-integration",
+    "node",
+    "jest"
+  ],
+  "author": "Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gryffins/unit-testing-example/issues"
+  },
+  "homepage": "https://github.com/gryffins/unit-testing-example#readme"
+}
